@@ -1,3 +1,3 @@
-def suamr(x, y):
+def sumar(x, y):
     z = x + y
     return z;	
