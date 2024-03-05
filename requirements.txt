@@ -27,6 +27,7 @@ docutils==0.17.1
 ec2-hibinit-agent==1.0.0
 exceptiongroup==1.2.0
 filelock==3.6.0
+flake8==7.0.0
 git-remote-codecommit==1.17
 hibagent==1.0.1
 httplib2==0.20.2
