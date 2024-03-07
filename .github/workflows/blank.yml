@@ -61,4 +61,4 @@ jobs:
           aws-region: us-east-1
 
       - name: Upload file to s3
-        run: aws s3 cp archivo.txt s3://project-ci-ex1/code/
+        run: aws s3 cp test_utils.py s3://project-ci-ex1/code/
